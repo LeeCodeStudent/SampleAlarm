@@ -1,0 +1,14 @@
+C:\Users\凉迹\Desktop\Winform\上位机训练营\SampleAlarm\SampleAlarm\Common.File\bin\Debug\Common.File.dll
+C:\Users\凉迹\Desktop\Winform\上位机训练营\SampleAlarm\SampleAlarm\Common.File\bin\Debug\Common.File.pdb
+C:\Users\凉迹\Desktop\Winform\上位机训练营\SampleAlarm\SampleAlarm\Common.File\obj\Debug\Common.File.dll
+C:\Users\凉迹\Desktop\Winform\上位机训练营\SampleAlarm\SampleAlarm\Common.File\obj\Debug\Common.File.pdb
+C:\Users\Administrator\Desktop\Winform\上位机训练营\SampleAlarm\SampleAlarm\Common.File\bin\Debug\Common.File.dll
+C:\Users\Administrator\Desktop\Winform\上位机训练营\SampleAlarm\SampleAlarm\Common.File\bin\Debug\Common.File.pdb
+C:\Users\Administrator\Desktop\Winform\上位机训练营\SampleAlarm\SampleAlarm\Common.File\obj\Debug\Common.File.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\Winform\上位机训练营\SampleAlarm\SampleAlarm\Common.File\obj\Debug\Common.File.dll
+C:\Users\Administrator\Desktop\Winform\上位机训练营\SampleAlarm\SampleAlarm\Common.File\obj\Debug\Common.File.pdb
+C:\Users\Administrator\Desktop\SampleAlarm\SampleAlarm\Common.File\bin\Debug\Common.File.dll
+C:\Users\Administrator\Desktop\SampleAlarm\SampleAlarm\Common.File\bin\Debug\Common.File.pdb
+C:\Users\Administrator\Desktop\SampleAlarm\SampleAlarm\Common.File\obj\Debug\Common.File.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\SampleAlarm\SampleAlarm\Common.File\obj\Debug\Common.File.dll
+C:\Users\Administrator\Desktop\SampleAlarm\SampleAlarm\Common.File\obj\Debug\Common.File.pdb

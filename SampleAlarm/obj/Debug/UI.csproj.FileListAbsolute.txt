@@ -1,0 +1,4 @@
+C:\Users\凉迹\Desktop\Winform\项目文件\SampleAlarm\SampleAlarm\SampleAlarm\bin\Debug\UI.exe.config
+C:\Users\凉迹\Desktop\Winform\项目文件\SampleAlarm\SampleAlarm\SampleAlarm\bin\Debug\SampleAlarm.exe.config
+C:\Users\凉迹\Desktop\Winform\项目文件\SampleAlarm\SampleAlarm\SampleAlarm\obj\Debug\SampleAlarm.exe
+C:\Users\凉迹\Desktop\Winform\项目文件\SampleAlarm\SampleAlarm\SampleAlarm\obj\Debug\SampleAlarm.pdb
